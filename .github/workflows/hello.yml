@@ -7,10 +7,10 @@ on:
 
 jobs:
   say-hello:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       - name: checkout the repository
-        uses: actions/checkout
+        uses: actions/checkout@v7
 
       - name: Print a greeting
         run: echo "hello from $(hostname), running as $(whoami)"
