@@ -10,7 +10,7 @@ jobs:
     runs-on: self-hosted
     steps:
       - name: checkout the repository
-        uses: actions/checkout@v7
+        uses: actions/checkout
 
       - name: Print a greeting
         run: echo "hello from $(hostname), running as $(whoami)"
