@@ -1,0 +1,22 @@
+name: Understanding the pipeline
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  say-hello:
+    runs-on: ubuntu
+    steps:
+      - name: checkout the repository
+        uses: actions/checkout@v7
+
+      - name: Print a greeting
+        run: echo "hello from $(hostname), running as $(whoami)"
+
+      - name: Show what is on the runner
+        run: |
+          uname -a;
+          df -Ph /
+          ls -la
