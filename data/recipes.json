@@ -1,0 +1,139 @@
+[
+  {
+    "slug": "bbq-chicken-pizza",
+    "title": "BBQ Chicken Pizza",
+    "summary": "Smoky barbecue chicken, pineapple and red onion on a crisp, cheesy base.",
+    "image": "/images/bbq-chicken-pizza.jpg",
+    "prepTime": "20 min",
+    "cookTime": "15 min",
+    "servings": 4,
+    "ingredients": [
+      "1 ready-made pizza base (12 inch)",
+      "2 cups cooked chicken, shredded",
+      "1/2 cup barbecue sauce, plus extra to drizzle",
+      "1 1/2 cups mozzarella, grated",
+      "1/2 cup pineapple chunks",
+      "1/2 red onion, thinly sliced",
+      "Fresh coriander leaves, to garnish"
+    ],
+    "steps": [
+      "Preheat the oven to 230°C (450°F) with a tray or pizza stone inside.",
+      "Toss the shredded chicken in half of the barbecue sauce.",
+      "Spread the remaining sauce over the pizza base, leaving a small border.",
+      "Scatter over the mozzarella, then the chicken, pineapple and red onion.",
+      "Bake for 12–15 minutes until the cheese is bubbling and the crust is golden.",
+      "Drizzle with a little extra barbecue sauce, top with coriander, slice and serve."
+    ]
+  },
+  {
+    "slug": "banana-pancakes",
+    "title": "Fluffy Banana Pancakes",
+    "summary": "A tall stack of soft pancakes topped with banana, almonds and maple syrup.",
+    "image": "/images/banana-pancakes.jpg",
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "servings": 3,
+    "ingredients": [
+      "1 1/2 cups plain flour",
+      "2 tsp baking powder",
+      "1 tbsp sugar",
+      "Pinch of salt",
+      "1 1/4 cups milk",
+      "1 egg",
+      "2 tbsp melted butter",
+      "2 ripe bananas (1 mashed, 1 sliced)",
+      "Flaked almonds, mint and maple syrup, to serve"
+    ],
+    "steps": [
+      "Whisk the flour, baking powder, sugar and salt together in a large bowl.",
+      "In another bowl, whisk the milk, egg, melted butter and mashed banana.",
+      "Pour the wet mix into the dry and stir until just combined — a few lumps are fine.",
+      "Heat a lightly buttered pan over medium heat and pour in 1/4 cup of batter per pancake.",
+      "Cook until bubbles form on top, then flip and cook for another minute.",
+      "Stack, top with sliced banana and almonds, and finish with maple syrup and mint."
+    ]
+  },
+  {
+    "slug": "classic-cheeseburger",
+    "title": "Double Cheeseburger",
+    "summary": "Two juicy smashed patties, melted cheese, pickles and a tangy burger sauce.",
+    "image": "/images/classic-cheeseburger.jpg",
+    "prepTime": "15 min",
+    "cookTime": "10 min",
+    "servings": 2,
+    "ingredients": [
+      "400 g minced beef (20% fat)",
+      "Salt and black pepper",
+      "4 slices cheddar cheese",
+      "2 brioche buns, toasted",
+      "Lettuce, sliced tomato, onion and pickles",
+      "Sauce: 3 tbsp mayonnaise, 1 tbsp ketchup, 1 tsp mustard, 1 tsp pickle juice"
+    ],
+    "steps": [
+      "Mix the sauce ingredients together and set aside.",
+      "Divide the beef into 4 balls and season well with salt and pepper.",
+      "Heat a heavy pan until very hot. Add the balls and smash them flat with a spatula.",
+      "Cook for 2 minutes until well browned, flip, add a slice of cheese to each and cook 1 minute more.",
+      "Spread sauce on both halves of each bun.",
+      "Layer lettuce, tomato, pickles, two patties and onion, then close the bun and serve."
+    ]
+  },
+  {
+    "slug": "paneer-butter-masala",
+    "title": "Paneer Butter Masala",
+    "summary": "Soft paneer cubes in a rich, creamy tomato and cashew gravy, served with rice.",
+    "image": "/images/paneer-butter-masala.jpg",
+    "prepTime": "15 min",
+    "cookTime": "25 min",
+    "servings": 4,
+    "ingredients": [
+      "250 g paneer, cubed",
+      "2 tbsp butter",
+      "1 onion, chopped",
+      "1 tbsp ginger-garlic paste",
+      "3 tomatoes, chopped",
+      "10 cashews, soaked",
+      "1 tsp Kashmiri chilli powder",
+      "1 tsp garam masala",
+      "1/2 tsp turmeric",
+      "1/4 cup cream",
+      "Salt, coriander leaves and steamed basmati rice, to serve"
+    ],
+    "steps": [
+      "Melt the butter in a pan and fry the onion until soft and golden.",
+      "Add the ginger-garlic paste and cook for 1 minute.",
+      "Add the tomatoes and cashews and cook until the tomatoes break down, about 8 minutes.",
+      "Cool slightly, then blend to a smooth paste and return it to the pan.",
+      "Stir in the chilli powder, turmeric, garam masala and salt; simmer for 5 minutes.",
+      "Add the paneer and cream, simmer for 3–4 minutes, garnish with coriander and serve over rice."
+    ]
+  },
+  {
+    "slug": "penne-bolognese",
+    "title": "Penne Bolognese",
+    "summary": "A hearty, slow-simmered meat sauce tossed through penne and finished with parmesan.",
+    "image": "/images/penne-bolognese.jpg",
+    "prepTime": "10 min",
+    "cookTime": "40 min",
+    "servings": 4,
+    "ingredients": [
+      "400 g penne pasta",
+      "500 g minced beef or pork",
+      "2 tbsp olive oil",
+      "1 onion, 1 carrot and 1 celery stick, finely diced",
+      "2 garlic cloves, minced",
+      "2 tbsp tomato paste",
+      "1 can (400 g) crushed tomatoes",
+      "1 tsp dried oregano",
+      "Salt, black pepper and grated parmesan"
+    ],
+    "steps": [
+      "Heat the olive oil and cook the onion, carrot and celery for 6–8 minutes until soft.",
+      "Add the garlic and minced meat and cook, breaking it up, until browned.",
+      "Stir in the tomato paste, then the crushed tomatoes and oregano.",
+      "Season, cover and simmer gently for 25–30 minutes, stirring occasionally.",
+      "Meanwhile, cook the penne in well-salted water until al dente, then drain.",
+      "Toss the penne through the sauce and serve topped with parmesan and black pepper."
+    ]
+  }
+]

@@ -1,22 +1,24 @@
-name: Understanding the pipeline
-
+name: Building the docker pipeline
 on:
   push:
     branches: [main]
   workflow_dispatch:
 
 jobs:
-  say-hello:
+  Dockerbuild:
     runs-on: ubuntu-latest
     steps:
       - name: checkout the repository
         uses: actions/checkout@v7
 
-      - name: Print a greeting
-        run: echo "hello from $(hostname), running as $(whoami)"
-
-      - name: Show what is on the runner
-        run: |
-          uname -a;
-          df -Ph /
-          ls -la
+      - name: building the docker container
+        uses: docker/setup-buildx-action@v4
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+      - name: Build and push
+        uses: docker/build-push-action@v7
+        with:
+          push: true
+          tags: recipe:latest
