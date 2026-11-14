@@ -21,4 +21,4 @@ jobs:
         uses: docker/build-push-action@v7
         with:
           push: true
-          tags: recipe:latest
+          tags: ghcr.io/${{ github.repository_owner }}/recipe:latest
