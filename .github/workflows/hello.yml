@@ -21,4 +21,4 @@ jobs:
         uses: docker/build-push-action@v7
         with:
           push: true
-          tags: ghcr.io/createpipeline/recipe:latest
+          tags: ghcr.io/koventhan28/recipe:latest
